@@ -1,0 +1,44 @@
+h2{
+    text-align: center;
+    text-shadow: 2px 3px 3px rgb(255, 255, 255);
+    color:rgb(0, 255, 21)
+}
+h4{
+    color:rgb(1, 255, 1);
+    text-align:auto;
+    max-width: 100%;
+    height: auto;
+    display: table;
+    margin: auto;
+}
+body{
+    background-color: black;
+    text-align: center;
+}
+div{
+    background-color: black;
+}
+form{
+    text-align: center;
+    max-width: auto;
+    height: 100%;
+    margin-left:50%;
+    margin-right:-50%;
+}
+input{
+    text-align: center;
+}
+strong{
+    text-align: center;
+}
+img{
+    max-width:100%;
+    height:auto;
+}
+@media screen and (max-width:768px){
+    form{
+        max-width: auto;
+        height: 100%;
+        margin:auto;
+    }
+}

@@ -1,0 +1,20 @@
+h1{
+    background-color: black;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, sans-serif ;
+    color: hsl(120, 73%, 51%); font-size: 50px;
+}
+body{
+    background-color: black;
+}
+img{
+    max-width: 100%;
+    height: auto;
+    display: table;
+    margin: auto;
+    margin-bottom: 1%;
+}
+p{
+    background-color: rgb(0, 255, 0);
+    text-align: center;
+}

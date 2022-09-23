@@ -1,0 +1,13 @@
+body{background-color: black;}
+.card-text{
+    color: white;
+}
+.card-title{
+    color: rgb(0, 255, 0);
+}
+.card-body{
+    background-color: rgb(20, 20, 20);
+}
+.card-footer{
+    background-color: rgb(20, 20, 20);
+}
